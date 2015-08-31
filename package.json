@@ -1,0 +1,25 @@
+{
+  "name": "@saio/logger-component",
+  "version": "0.0.2",
+  "description": "Logger service-component",
+  "main": "./src/main.js",
+  "dependencies": {
+    "winston": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "@saio/service-runner": "*"
+  },
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saio-fr/logger-component.git"
+  },
+  "author": "saio",
+  "bugs": {
+    "url": "https://github.com/saio-fr/logger-component/issues"
+  },
+  "homepage": "https://github.com/saio-fr/logger-component"
+}
