@@ -8,7 +8,8 @@
     "underscore": "*"
   },
   "devDependencies": {
-    "@saio/service-runner": "*"
+    "@saio/service-runner": "*",
+    "eslint": "*"
   },
   "scripts": {
     "test": "eslint ."
